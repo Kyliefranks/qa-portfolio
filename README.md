@@ -41,5 +41,5 @@ This project demonstrates my QA skills using the Sauce Demo web application.
 ## Contact
 www.linkedin.com/in/kyle-franks-5b6626204
 
-## EMAIL 
-KYLIEFRANK2403@GMAIL.COM
+## Email 
+Kyliefrank2403@gmail.com

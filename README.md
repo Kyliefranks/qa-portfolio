@@ -15,7 +15,7 @@ This project demonstrates my QA skills using the Sauce Demo web application.
 - Excel / Markdown documentation
 
 ---
-Test Artifacts
+## Test Artifacts
 
 # 1. Test Plan
 - Covers scope, objectives, and approach for testing Sauce Demo application.

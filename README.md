@@ -48,8 +48,11 @@ Documented defects with:
 qa-portfolio/
 │
 ├── test-plans/
+
 ├── test-cases/
+
 ├── bug-reports/
+
 └── README.md
 
 ---

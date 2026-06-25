@@ -47,11 +47,11 @@ Documented defects with:
 ## 📂 Repository Structure
 qa-portfolio/
 │
-├── test-plans/
+/├── test-plans/
 
-├── test-cases/
+/├── test-cases/
 
-├── bug-reports/
+/├── bug-reports/
 
 └── README.md
 

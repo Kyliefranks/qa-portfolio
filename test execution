@@ -1,0 +1,35 @@
+# Test Execution Report - Sauce Demo
+
+## Application: https://www.saucedemo.com
+
+---
+
+## Test Cycle Summary
+- Test Cycle: 1
+- Type: Manual Testing
+- Environment: Chrome Browser (Latest)
+- Tester: Kyle Franks
+
+---
+
+## Test Case Execution Results
+
+| Test Case ID | Description       | Expected Result             | Actual Result             | Status |
+|--------------|-------------------|---------------------------|-----------------------------|--------|
+| TC-001       | Valid login       | User logs in successfully | User logged in successfully | Pass   |
+| TC-002       | Invalid username  | Error message displayed   | Error message displayed     | Pass   |
+| TC-003       | Invalid password  | Error message displayed   | Error message displayed     | Pass   |
+| TC-004       | Empty fields      | Validation message shown  | Validation message shown    | Pass   |
+| TC-005       | Locked user       | Locked user error shown   | Locked user error shown     | Pass   |
+
+---
+
+## Defects Found
+- 0 Critical defects
+- 0 High defects
+- 2 Low UI issues (refer to bug reports)
+
+---
+
+## Conclusion
+All critical login functionality works as expected. No blocking defects found during this test cycle.

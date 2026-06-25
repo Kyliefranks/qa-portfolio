@@ -71,16 +71,3 @@ qa-portfolio/
 **Email:** Kyliefrank2403@gmail.com
 
 ----
-## 📸 Evidence of Testing
-
-### Login Page
-![Login Page](Screenshot%202026-06-25%20at%2010.28.37.png)
-
-### Successful Login
-![Successful Login](Screenshot%202026-06-25%20at%2010.28.42.png)
-
-### Invalid Login Error
-![Invalid Login Error](Screenshot%202026-06-25%20at%2010.29.15.png)
-
-### Locked User Error
-![Locked User Error](Screenshot%202026-06-25%20at%2010.29.46.png)

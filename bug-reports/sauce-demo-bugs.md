@@ -9,8 +9,8 @@
 **Title:** Login button allows submission with empty fields without proper validation
 
 **Environment:**
-- Browser: Chrome (latest)
-- OS: Windows / macOS (specify if needed)
+- Browser: safari (latest)
+- OS: macOS 
 
 **Severity:** Medium  
 **Priority:** High  
